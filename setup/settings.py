@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Ativando o aplicativo
-    'siteBdev.apps.SiteBdevConfig',
+    'siteBdev.apps.SitebdevConfig',
 ]
 
 MIDDLEWARE = [
